@@ -34,7 +34,6 @@ ksa-uva-website/
 - **Home**: Welcome page with an overview of KSA.
 - **About**: Mission statement and brief history of KSA.
 - **Events**: Calendar of KSA events.
-- **Families**: Information about KSA families.
 - **Gallery**: Photo highlights from past events.
 - **Join**: Sign-up form for prospective members.
 - **Merch**: Club merchandise display and order info.

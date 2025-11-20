@@ -14,7 +14,7 @@ const exec = [
 // Flat list you provided (left as-is)
 const councilFlat = [
     // Internal
-    { name: "Alana Lee",   role: "Internal Chair", photo: "/boardPhotos/alana.webp" },
+    { name: "Alana Li",   role: "Internal Chair", photo: "/boardPhotos/alana.webp" },
     { name: "Sam Leal",    role: "Internal Chair", photo: "/boardPhotos/sam.webp" },
     { name: "Esther Kong", role: "Internal Chair", photo: "/boardPhotos/esther.webp" },
 
@@ -28,7 +28,7 @@ const councilFlat = [
     { name: "Hailey Chong", role: "Social Chair",   photo: "/boardPhotos/hailey.webp" },
 
     // Outreach
-    { name: "Vivan Ngyuen",     role: "Outreach Chair",  photo: "/boardPhotos/vivian.webp" },
+    { name: "Vivian Nguyen",     role: "Outreach Chair",  photo: "/boardPhotos/vivian.webp" },
     { name: "Isabel Vikesland", role: "Outreach Chair",  photo: "/boardPhotos/isabel.webp" },
 
     // Fundraising
